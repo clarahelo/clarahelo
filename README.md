@@ -2,4 +2,4 @@
 
 Meu nome é Clara Heloise
 
--Estou estudando
+-Estudande de línguagem de programação
